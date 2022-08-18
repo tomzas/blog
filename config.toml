@@ -1,0 +1,4 @@
+baseURL = 'https://tomzas.github.io/'
+languageCode = 'en-us'
+title = 'Coding log'
+theme = 'ghostwriter'
